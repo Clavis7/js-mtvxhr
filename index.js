@@ -3,8 +3,6 @@ import './style.css';
 
 // Write Javascript code!
 
-function add(a, b) {
-  return a + b;
+for (let i = 0; i <= 10; i++) {
+  console.log(i);
 }
-
-console.log(add(4, 7));
